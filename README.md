@@ -12,3 +12,4 @@ at Department of Mathematics, Istanbul Technical University, Turkey.
 image data analysis.
 :movie_camera: In Spring21, I am teaching an undergraduate level "Introduction to Data Science" course.
 
+  
