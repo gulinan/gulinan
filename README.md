@@ -5,6 +5,6 @@
 at Department of Mathematics, Istanbul Technical University, Turkey. 
 - I am currently interested in data science tools in digital humanites and analysis of high-dimensional
 image data.
-- In Spring21, I am teaching an undergraduate level "Introduction to Data Science" course.
+- In Spring21, I am teaching an undergraduate level "Introduction to Data Science" course and using GitHub classroom for my class.
 
  
