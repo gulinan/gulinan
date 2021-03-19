@@ -1,6 +1,6 @@
  
 
-🌿   Hi!..This is Gül İnan.   
+🌿   Hi!..This is Gul Inan.   
 - I am a PhD level statistician and working as a faculty member 
 at Department of Mathematics, Istanbul Technical University, Turkey. 
 - I am currently interested in:
