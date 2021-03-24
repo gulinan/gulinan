@@ -9,4 +9,4 @@ at Department of Mathematics, Istanbul Technical University, Turkey.
 - In Spring21, I am teaching an undergraduate level "Introduction to Data Science" course with `R` and using `GitHub classroom` for my class.
 
 - Note 1: I am looking for international/national PhD level collaborators to work on mathematical aspects of deep learning algorithms.
-- Note 2: I am not accepting undergraduate students this semester any more, and any openings for undegraduate level will be announced around mid-August. Please note that I am planning to advise students on "data science in digital humanities" topics only.
+- Note 2: I am not accepting undergraduate students this semester any more, and any openings for undegraduate level will be announced around mid-August. Please note that I am planning to supervise students on "data science in digital humanities" topics only.
