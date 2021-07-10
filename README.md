@@ -10,6 +10,6 @@ at Department of Mathematics, Istanbul Technical University, Turkey.
 the GitHub organization of our course https://github.com/MAT381E. 
 
 - Note 1: I am looking for international/national PhD level collaborators to work on mathematical aspects of deep learning algorithms.
-- Note 2: To undegraduate/graduate students: I am planning to supervise students on "data science in digital humanities" topics only. 
+- Note 2: To undegraduate/graduate students: I am planning to supervise students on "data science in digital humanities" topics only.
   - Required hard skills: Good level of Python knowledge, interest/experience in natural language modeling and digital humanities. 
   - Required soft skills: Being hard working, having excellent communication skills, ability to complete tasks on time, collaboration, work ethic, curiosity, enthusiasm, and imagination.
