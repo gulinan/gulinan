@@ -13,6 +13,9 @@ Devastation has struck Turkey and Syria with two strong earthquakes causing wide
 Please share this to raise awareness on how even as little as 10 euro can make a HUGE difference.
 
 
+[](https://preview.redd.it/9bjxbpnxihha1.jpg?width=640&crop=smart&auto=webp&s=9f7ed38621bfa441df0d173497d3e2cad3a6c633)
+
+
 The donation links:
 https://lnkd.in/d_KESUgU
 
