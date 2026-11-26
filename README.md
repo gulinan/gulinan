@@ -1,6 +1,6 @@
  
 
-🌿  Hi!..
+Hi!..
 
 🌿 I’m Gul Inan, a computational statistician and faculty member in the Department of Mathematics at Koç University in Türkiye.   
 
