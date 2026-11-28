@@ -2,11 +2,11 @@
 
 Hi!..
 
-🌿 I’m Gül İnan, a computational statistician and faculty member in the Department of Mathematics at Koç University in Türkiye.   
+🌿 I’m Gül İnan, a methodological and computational statistician and faculty member in the Department of Mathematics at Koç University in Türkiye.   
 
 🌿 I develop statistical methods and algorithms for integrating data from multiple sources and analyzing high-dimensional data, with applications in health, genetics 🧬 and multi-omics 🧪.   
 
-🌿 I welcome collaborations with established investigators who have genetics, multi-omics, multi-modal datasets and are interested in identifying statistical approaches to address their research questions.
+🌿 I welcome scientific collaborations with established investigators who have genetics, multi-omics, multi-modal datasets and are interested in identifying statistical approaches to address their research questions.
 
 🌿 You can reach me at ginan@ku.edu.tr. 
 
